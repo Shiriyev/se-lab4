@@ -1,0 +1,4 @@
+# Test 8 - ALL: SUCCESS if at least one torpedo was fired
+# primary always fails, secondary never fails
+GT4500,10,1,10,0
+TORPEDO,ALL

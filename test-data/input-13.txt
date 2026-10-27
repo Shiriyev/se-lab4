@@ -1,0 +1,4 @@
+# Test 13 - SINGLE: after the primary fired, both stores are empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary fires its only torpedo
+TORPEDO,SINGLE  # secondary is empty, primary is empty too

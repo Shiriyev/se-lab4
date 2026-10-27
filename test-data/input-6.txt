@@ -1,0 +1,4 @@
+# Test 6 - SINGLE: if the fired store fails, the ship does not try to fire the other one
+# primary always fails, secondary never fails
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # primary fails, the secondary must not be tried
