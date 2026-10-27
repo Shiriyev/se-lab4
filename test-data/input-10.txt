@@ -1,0 +1,3 @@
+# Test 10 - SINGLE: FAIL if no torpedo can be fired (both stores are empty)
+GT4500,0,0,0,0
+TORPEDO,SINGLE

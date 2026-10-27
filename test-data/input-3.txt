@@ -1,0 +1,6 @@
+# Test 3 - SINGLE fires only one of the bays (one torpedo per command)
+# 1 torpedo in each store, both never fail
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # uses the torpedo of the primary store
+TORPEDO,SINGLE  # uses the torpedo of the secondary store
+TORPEDO,SINGLE  # nothing is left

@@ -1,0 +1,4 @@
+# Test 7 - ALL: tries to fire both of the torpedo stores
+GT4500,1,0,1,0
+TORPEDO,ALL     # fires one torpedo from each store
+TORPEDO,SINGLE  # both stores are empty now

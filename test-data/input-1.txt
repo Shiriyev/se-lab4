@@ -1,0 +1,4 @@
+# Test 1 - SINGLE: the first time, the primary store is fired
+# primary: 10 torpedoes, never fails / secondary: 10 torpedoes, always fails
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # only the primary can succeed

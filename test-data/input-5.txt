@@ -1,0 +1,4 @@
+# Test 5 - SINGLE: the store next in line (secondary) is empty, so the primary is fired again
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary is next but empty -> primary again

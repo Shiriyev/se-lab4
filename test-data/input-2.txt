@@ -1,0 +1,7 @@
+# Test 2 - SINGLE: the torpedo stores are fired alternating
+# primary never fails, secondary always fails: SUCCESS = primary, FAIL = secondary
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
